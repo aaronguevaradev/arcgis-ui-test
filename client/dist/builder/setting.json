@@ -1,0 +1,9 @@
+{
+  "devEnv": {
+    "prod": {
+      "portalUrl": "https://aaofuv2cmzgb9svc.maps.arcgis.com",
+      "clientId": "mmubijOnp2QWCsaU",
+      "isWebTier": false
+    }
+  }
+}
